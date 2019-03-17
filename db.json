@@ -118,8 +118,11 @@
       "discount": 10,
       "kategori": "Videogame",
       "img": "https://store.playstation.com/store/api/chihiro/00_09_000/container/ID/en/19/UP0082-CUSA12031_00-ASIAFULLGAME0000/1551926878000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
-      "quantity": 1,
+      "quantity": 5,
       "id": 2
     }
+  ],
+  "history": [
+    
   ]
 }
