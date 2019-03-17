@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": 12341234,
+      "role": "admin"
+    },
+    {
+      "username": "Angga",
+      "password": "kerinci36",
+      "email": "anggaradifans@gmail.com",
+      "phone": "087880196680",
+      "id": 2
+    },
+    {
+      "username": "grimmerwolfgang12@gmail.com",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "Anggu",
+      "password": "12345",
+      "email": "asdasd@gmail.com",
+      "phone": "0812345678",
+      "id": 4
+    },
+    {
+      "username": "asdasd",
+      "password": "qwerty",
+      "email": "qweqwe@gmail.com",
+      "phone": "08765432",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nama": "Devil May Cry 5",
+      "kategori": "Videogame",
+      "subkategori": "PS4",
+      "harga": 758000,
+      "deskripsi": "A brand new entry in the legendary action series, Devil May Cry 5 brings together its signature blend of high-octane action and otherworldly original characters with the latest Capcom gaming technology to deliver a graphically groundbreaking action-adventure masterpiece.",
+      "img": "https://store.playstation.com/store/api/chihiro/00_09_000/container/ID/en/19/UP0102-CUSA08216_00-ASIAFULLGAME0000/1552021784000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "discount": 0
+    },
+    {
+      "id": 2,
+      "nama": "Kingdom Heart 3",
+      "kategori": "Videogame",
+      "subkategori": "PS4",
+      "harga": 724000,
+      "deskripsi": "KINGDOM HEARTS III tells the story of the power of friendship as Sora and his friends embark on a perilous adventure. Set in a vast array of Disney worlds, KINGDOM HEARTS follows the journey of Sora, a young boy and unknowing heir to a spectacular power.",
+      "img": "https://store.playstation.com/store/api/chihiro/00_09_000/container/ID/en/19/UP0082-CUSA12031_00-ASIAFULLGAME0000/1551926878000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "discount": 10
+    },
+    {
+      "id": 3,
+      "nama": "Monster Hunter World",
+      "kategori": "Videogame",
+      "subkategori": "PS4",
+      "harga": 657000,
+      "deskripsi": "Welcome to a new world! Take on the role of a hunter and slay ferocious monsters in a living, breathing ecosystem where you can use the landscape and its diverse inhabitants to get the upper hand. Hunt alone or in co-op with up to three other players, and use materials collected from fallen foes to craft new gear and take on even bigger, badder beasts!",
+      "img": "https://store.playstation.com/store/api/chihiro/00_09_000/container/ID/en/19/HP0102-CUSA09554_00-ASIAPLACEHOLDER0/1550825296000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "discount": 40
+    },
+    {
+      "id": 4,
+      "nama": "Super Smash Bros Ultimate",
+      "kategori": "Videogame",
+      "subkategori": "Switch",
+      "harga": 760000,
+      "deskripsi": "Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more!",
+      "img": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_SuperSmashBrosUltimate_02_image420w.jpg",
+      "discount": 30
+    },
+    {
+      "id": 5,
+      "nama": "The Legend of Zelda : Breath of the Wild",
+      "kategori": "Videogame",
+      "subkategori": "Switch",
+      "harga": 759000,
+      "deskripsi": "Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule In this stunning Open-Air Adventure. ",
+      "img": "https://static.gamespot.com/uploads/scale_medium/1197/11970954/3181241-ig-lozbreathofthewildrelease-20170112.jpg",
+      "discount": 50
+    },
+    {
+      "id": 6,
+      "nama": "Super Mario Odyssey",
+      "kategori": "Videogame",
+      "subkategori": "Switch",
+      "harga": 660000,
+      "deskripsi": "Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser's wedding plans!",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Super_Mario_Odyssey.jpg/220px-Super_Mario_Odyssey.jpg",
+      "discount": 30
+    }
+  ],
+  "cart": [
+    {
+      "username": "Angga",
+      "userId": 2,
+      "productId": 1,
+      "namaProduk": "Devil May Cry 5",
+      "harga": 758000,
+      "discount": 0,
+      "kategori": "Videogame",
+      "img": "https://store.playstation.com/store/api/chihiro/00_09_000/container/ID/en/19/UP0102-CUSA08216_00-ASIAFULLGAME0000/1552021784000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "username": "Angga",
+      "userId": 2,
+      "productId": 2,
+      "namaProduk": "Kingdom Heart 3",
+      "harga": 724000,
+      "discount": 10,
+      "kategori": "Videogame",
+      "img": "https://store.playstation.com/store/api/chihiro/00_09_000/container/ID/en/19/UP0082-CUSA12031_00-ASIAFULLGAME0000/1551926878000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "quantity": 1,
+      "id": 2
+    }
+  ]
+}
